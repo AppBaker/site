@@ -1,0 +1,27 @@
+
+
+a {
+
+  margin: 0px 20px;
+  font-size: 2rem;
+}
+
+  h1 {
+  text-align: center;
+  padding: 200px 0px 30px 0px;
+}
+
+.appBaker {
+  font-size: 10rem;
+  font-family: "Montserrat";
+  font-weight: 400;
+}
+
+.montserrat700 {
+  font-family: "Montserrat";
+  font-weight: 700;
+}
+
+.links {
+  padding-bottom: 300px
+}
