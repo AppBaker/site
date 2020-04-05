@@ -22,7 +22,7 @@ h1 {
 }
 
 .title-background {
-  background-image: url('file:///Users/starrywings/Documents/WebDevelopment/TIPI/images/tipi1.jpg');
+  background-image: url('/images/tipi1.jpg');
   background-size: cover;
 }
 
