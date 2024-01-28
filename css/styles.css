@@ -12,10 +12,6 @@ body {
   background-color: var(--tg-theme-bg-color);
 }
 
-button {
-  background-color: var(--tg-theme-button-color);
-}
-
 .form-signin {
   min-width: 330px;
   padding: 15px;
@@ -44,7 +40,7 @@ button {
   border-top-right-radius: 0;
 }
 .btn {
-  background-color: red;
+  background-color: var(--tg-theme-button-color);
 }
 
 
