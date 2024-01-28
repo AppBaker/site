@@ -44,6 +44,7 @@ button {
   border-top-right-radius: 0;
 }
 .btn {
-  background-color: var(--tg-theme-button-color);
-  color: var(--tg-theme-button-text-color);
+  background-color: red;
 }
+
+
